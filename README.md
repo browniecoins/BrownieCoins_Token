@@ -1,7 +1,8 @@
 # BrownieCoins_Token
 
 On Binance Smart Chain
-https://bscscan.com/token/0xf6a303182e3fa34db2d524138c29a0675452702d
+
+https://bscscan.com/token/0x78bb2dc3caf3f985fa8afe14573e8df6771f6e04
 
 The Brownie Coins Protocol is a community driven, fair launched DeFi Token. Three simple functions occur during each trade: Reflection, LP Acquisition, and Burn.
 
